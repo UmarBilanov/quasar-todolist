@@ -17,7 +17,7 @@
         </q-btn>
 
         <q-toolbar-title>
-          Quasar Task Manager
+          Quasar Daily task manager.
         </q-toolbar-title>
       </q-toolbar>
     </q-layout-header>

@@ -4,19 +4,13 @@
   "description": "A Quasar Framework app",
   "productName": "Quasar App",
   "cordovaId": "org.cordova.quasar.app",
-  "author": "Umar Bilanov <umar.uranuulu@gmail.com>",
+  "author": "",
   "private": true,
   "scripts": {
-    "lint": "eslint --ext .js,.vue src",
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {},
   "devDependencies": {
-    "@vue/eslint-config-standard": "^4.0.0",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.10.0",
-    "eslint-loader": "^2.1.1",
-    "eslint-plugin-vue": "^5.0.0",
     "quasar-cli": "^0.17.0",
     "strip-ansi": "=3.0.1"
   },
